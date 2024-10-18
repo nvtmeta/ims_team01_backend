@@ -1,0 +1,17 @@
+package fsa.training.ims_team01.enums.candidateEnum;
+
+public enum CandidateStatusEnum {
+    OPEN,
+    WAITING_FOR_INTERVIEW,
+    CANCELLED_INTERVIEW,
+    PASSED_INTERVIEW,
+    FAILED_INTERVIEW,
+    WAITING_FOR_APPROVAL,
+    APPROVED_OFFER,
+    REJECTED_OFFER,
+    WAITING_FOR_RESPONSE,
+    ACCEPTED_OFFER,
+    DECLINED_OFFER,
+    CANCELLED_OFFER,
+    BANNED
+}
